@@ -53,6 +53,4 @@ These limits are useful next experiments: a fixed-seed baseline, consistent chec
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Small portability fixes, shape checks, training/sampling comparisons, and documented reproductions are welcome. Preserve historical outputs as historical evidence and label newly generated results with their configuration.
 
-A GAN notebook has not been identified in this repository. This index lists only the available implementations.
-
 No standalone LICENSE file is included. Dataset and source-code reuse terms should be checked separately.
